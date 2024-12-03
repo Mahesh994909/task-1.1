@@ -1,0 +1,40 @@
+.orange {
+    border: 2px solid;
+    padding: 20px;
+    width: 100px;
+    background-color: orange;
+  }
+  .white {
+    border: 2px solid;
+    padding: 20px;
+    width: 100px;
+    background-color: white;
+    .chakram {
+      border: 2px solid aqua;
+      width: 10px;
+      height: 10px;
+      border-radius: 100px;
+      background-color: aqua;
+    }
+  }
+  .green {
+    border: 2px solid;
+    padding: 20px;
+    width: 100px;
+    background-color: green;
+  }
+  .stand-1 {
+    border: 2px solid brown;
+    width: 15px;
+    height: 300px;
+    margin-left: -159px;
+    margin-top: -150px;
+    background-color: brown;
+  }
+  .stand-2 {
+    border: 2px solid brown;
+    width: 100px;
+    height: 40px;
+    margin-right: 160px;
+    background-color: brown;
+  }
